@@ -25,7 +25,7 @@
 
         .hero-bg {
             position: absolute; inset: 0;
-            background: linear-gradient(rgba(2, 6, 23, 0.7), rgba(2, 6, 23, 0.9)), url('imagenes/Hero2.jpeg');
+            background: linear-gradient(rgba(2, 6, 23, 0.7), rgba(2, 6, 23, 0.9)), url('imagenes/hero2.jpeg');
             background-size: cover; background-position: center; z-index: 0;
         }
 
@@ -74,7 +74,7 @@
 
     <nav class="fixed top-0 w-full z-50 nav-light py-5">
         <div class="max-w-7xl mx-auto px-6 flex justify-between items-center">
-            <a href="#"><img src="imagenes/Isotipo-transp.png" alt="ESI Ventures" class="h-10 md:h-12"></a>
+            <a href="#"><img src="imagenes/isotipo-transp.png" alt="ESI Ventures" class="h-10 md:h-12"></a>
             <div class="hidden md:flex gap-8 text-[11px] tracking-[0.2em] uppercase font-bold">
                 <a href="#about" class="nav-link-dark" data-lang="en">About</a>
                 <a href="#about" class="nav-link-dark lang-hidden" data-lang="es">Nosotros</a>
@@ -197,7 +197,7 @@
                 <span class="section-title">Contact</span>
                 <h2 class="text-6xl serif mb-10">Integrity in every partnership.</h2>
                 <div class="bg-white p-10 rounded shadow-2xl inline-block">
-                    <img src="imagenes/Logo_hor-transp1.png" alt="ESI" class="max-w-sm">
+                    <img src="imagenes/Logo_hor-transp.png" alt="ESI" class="max-w-sm">
                 </div>
             </div>
             <div class="glass-card p-10" data-aos="fade-left">
